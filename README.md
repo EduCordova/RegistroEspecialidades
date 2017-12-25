@@ -1,3 +1,3 @@
-## Registro con firebase
+## Registro Especialidades ReactJS con Firebase
 
 En desarrollo...
